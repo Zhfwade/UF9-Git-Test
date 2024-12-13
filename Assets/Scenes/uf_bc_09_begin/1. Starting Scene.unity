@@ -3684,6 +3684,26 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -4
       objectReference: {fileID: 0}
+    - target: {fileID: 2575797822234254032, guid: 1528f9b5faba1b14d92329b98d6622f8,
+        type: 3}
+      propertyPath: m_ActionEvents.Array.data[0].m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2575797822234254032, guid: 1528f9b5faba1b14d92329b98d6622f8,
+        type: 3}
+      propertyPath: m_ActionEvents.Array.data[1].m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2575797822234254032, guid: 1528f9b5faba1b14d92329b98d6622f8,
+        type: 3}
+      propertyPath: m_ActionEvents.Array.data[2].m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2575797822234254032, guid: 1528f9b5faba1b14d92329b98d6622f8,
+        type: 3}
+      propertyPath: m_ActionEvents.Array.data[3].m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 2575797822234254039, guid: 1528f9b5faba1b14d92329b98d6622f8,
         type: 3}
       propertyPath: CinemachineCameraTarget
@@ -3774,7 +3794,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -4
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2575797822234254039, guid: 1528f9b5faba1b14d92329b98d6622f8, type: 3}
+    - {fileID: 2575797822234254038, guid: 1528f9b5faba1b14d92329b98d6622f8, type: 3}
+    - {fileID: 2238655513307481760, guid: 1528f9b5faba1b14d92329b98d6622f8, type: 3}
+    - {fileID: 2575797822234254032, guid: 1528f9b5faba1b14d92329b98d6622f8, type: 3}
     m_RemovedGameObjects:
     - {fileID: 166183563105634571, guid: 1528f9b5faba1b14d92329b98d6622f8, type: 3}
     - {fileID: 7121222811994923998, guid: 1528f9b5faba1b14d92329b98d6622f8, type: 3}
